@@ -1,0 +1,35 @@
+---Descriptions---
+
+Case for Sanguinololu 
+
+Built in cooling duct for Pololu drivers, mosfets and voltage regulator.
+
+Snap together fit.
+
+Push button for reset.
+
+Light.stl is a diffuser for the indicator L.E.D. to be printed in clear material. It will hopefully transfer the light from the L.E.D. to the outside of the case.
+
+Modelled with Blender 2.57 and exported directly to STL.
+
+Update
+Made a small change to case top for clearance of mosfet. (easily cut away if you have printed the original)
+
+
+---Instructions---
+
+1) Print Sanguinololu_case_sheet.stl or separate pieces.
+
+2) Print Light.stl in clear material (optional)
+
+3) Screw Sanguinololu to base.
+
+4) Bolt 40mm fan to opening in top.
+
+5) Install button.
+
+
+6) Glue in light diffuser. (optional)
+
+7) Snap top to bottom.
+
